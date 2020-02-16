@@ -1,0 +1,6 @@
+.tf*
+.terraform*
+.terraform.*
+*.tfstate
+*.tfstate.*
+*.out*
